@@ -24,7 +24,6 @@ class MyApp extends StatelessWidget {
             leading: IconButton(
               icon: Icon(Icons.menu), onPressed: () { },
             )
-          // centerTitle: true
         )
 
         , body : Center(
